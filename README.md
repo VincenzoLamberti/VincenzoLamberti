@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vincenzo Lamberti</h1>
 <h3 align="center">A passionate student from Italy</h3>
 
-- 🔭 I’m currently working on [Randomia](https://github.com/vincenzolamberti/randomia)
-
 - 👨‍💻 All of my projects are available at [https://github.com/vincenzolamberti](https://github.com/vincenzolamberti)
 
-- 💬 Ask me about **C++, flutter, Game development**
+- 💬 Ask me about **C++, flutter, Godot**
 
 - 📫 How to reach me **mail.vincenzolamberti@gmail.com**
 
